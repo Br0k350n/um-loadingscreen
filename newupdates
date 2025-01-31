@@ -1,3 +1,9 @@
-- New Loading Screen added
-- Added ERPT Ford Focus Active
-- Added ERPT Unmarked Ford Focus Active
+- Multicharacter Patch: A bug that created a drop in performance when a character was created has been fixed in this new patch. Additionally, the background music volume has been lowered!
+- Banking Update: Our banking system has been updated to detect and log smaller transactions.
+- Mining Update: The mining job has been updated to fix targeting issues.
+- Admin Menu Update: The admin menu has been updated to fix vehicle commands, especially those related to the car lock system.
+- Dispatch Update: The dispatch system has received an update that improves performance.
+- Loading Screen Update: The loading screen has been updated to fix some problems with the buttons and background music.
+- Car Lock Update: The car lock system has been updated to improve compatibility with other scripts.
+- Paintball Map Updates: Both variations of the Nuketown map have been updated to enhance performance and allow for a smoother experience.
+- Pause Menu Update: The pause menu has received a minor update that fixes some UI bugs.
